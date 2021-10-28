@@ -30,6 +30,9 @@ var family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
 */
 
 //Code Here
+for (let index = 0; index < family.length; index++){
+  console.log(family[index])
+}
 
 
 
